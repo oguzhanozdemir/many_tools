@@ -1,12 +1,7 @@
 library many_tools;
 
 import 'package:flutter/material.dart';
-
-enum MTDeviceType {
-  MOBILE,
-  TABLET,
-  DESKTOP,
-}
+import 'package:many_tools/enums.dart';
 
 class MTScreen {
   //Get Device Width
