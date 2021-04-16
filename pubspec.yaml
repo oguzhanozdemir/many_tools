@@ -1,7 +1,8 @@
 name: many_tools
-description: A new Flutter package project.
+description: Many flutter tools for application.
 version: 0.0.1
-homepage:
+author: Oğuzhan ÖZDEMİR<ogzhnozdmr@gmail.com>
+homepage: https://github.com/oguzhanozdemir/many_tools.git
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
