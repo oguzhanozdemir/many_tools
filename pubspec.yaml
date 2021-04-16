@@ -1,7 +1,6 @@
 name: many_tools
 description: Many flutter tools for application.
 version: 0.0.1
-author: Oğuzhan ÖZDEMİR<ogzhnozdmr@gmail.com>
 homepage: https://github.com/oguzhanozdemir/many_tools.git
 
 environment:
